@@ -1,7 +1,7 @@
 # EXPENSES_CRACKER_PROJECT
 This Python script is a comprehensive Expense Tracker application. It allows users to manage their personal finances by adding, viewing, editing, and analyzing their expenses. Here’s a summary of its functionality and features:
 
-# Classes and Their Responsibilities
+Classes and Their Responsibilities
 Expenses
 Represents an individual expense with attributes: 
 description: What the expense is for.
@@ -18,7 +18,7 @@ Sorting expenses by amount, description, or category.
 Generating a pie chart to visualize expenses by category.
 Setting and monitoring a monthly budget.
 
-# Features:
+Features:
 # 1.Add Expense
 Add a single expense with a description, amount, and category.
 Prevents negative expense amounts.
